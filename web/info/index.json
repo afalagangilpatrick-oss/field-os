@@ -1,0 +1,16 @@
+[
+ {
+  "id": "hardware",
+  "title": "Utilities and tablet hardware",
+  "summary": "Every utility in Field OS and every part of the Dell Latitude 7212: what it does and how to use it",
+  "file": "hardware.md",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "howto",
+  "title": "How to use Field OS",
+  "summary": "A walk through every screen: customers to invoices, utilities, apps, files, Private, updates",
+  "file": "how-to-use.md",
+  "updated": "2026-11-13"
+ }
+]
